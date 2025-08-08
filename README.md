@@ -15,3 +15,5 @@ sonrası için planlanan antrenman:[antrenman türü](Kardiyo, Güç Antrenmanı
 Antrenman türleri, kullanıcının spor seviyesine göre otomatik olarak önerilecek ve kullanıcı tercihine göre
 ayarlanacaktır.
 Programda, antrenman günlerinin isimleri 1.gün, 2.gün, 3.gün, ... formatında gösterilecektir.
+
+"Bilgisayar Mühendisliği 1.sınıf C# dilinde 3.ödev"
