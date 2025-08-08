@@ -1,1 +1,1 @@
-# Ki-iye-zel-Spor-Antrenman-Plan-Uygulamas-
+# Kişiye Özel Spor Antrenman Plan Uygulaması
