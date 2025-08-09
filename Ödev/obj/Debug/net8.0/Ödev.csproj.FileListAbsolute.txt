@@ -1,0 +1,14 @@
+C:\Users\metin\source\repos\Ödev\Ödev\obj\Debug\net8.0\Ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metin\source\repos\Ödev\Ödev\obj\Debug\net8.0\Ödev.AssemblyInfoInputs.cache
+C:\Users\metin\source\repos\Ödev\Ödev\obj\Debug\net8.0\Ödev.AssemblyInfo.cs
+C:\Users\metin\source\repos\Ödev\Ödev\obj\Debug\net8.0\Ödev.csproj.CoreCompileInputs.cache
+C:\Users\metin\source\repos\Ödev\Ödev\bin\Debug\net8.0\Ödev.exe
+C:\Users\metin\source\repos\Ödev\Ödev\bin\Debug\net8.0\Ödev.deps.json
+C:\Users\metin\source\repos\Ödev\Ödev\bin\Debug\net8.0\Ödev.runtimeconfig.json
+C:\Users\metin\source\repos\Ödev\Ödev\bin\Debug\net8.0\Ödev.dll
+C:\Users\metin\source\repos\Ödev\Ödev\bin\Debug\net8.0\Ödev.pdb
+C:\Users\metin\source\repos\Ödev\Ödev\obj\Debug\net8.0\Ödev.dll
+C:\Users\metin\source\repos\Ödev\Ödev\obj\Debug\net8.0\refint\Ödev.dll
+C:\Users\metin\source\repos\Ödev\Ödev\obj\Debug\net8.0\Ödev.pdb
+C:\Users\metin\source\repos\Ödev\Ödev\obj\Debug\net8.0\Ödev.genruntimeconfig.cache
+C:\Users\metin\source\repos\Ödev\Ödev\obj\Debug\net8.0\ref\Ödev.dll
